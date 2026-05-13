@@ -1,5 +1,9 @@
 # 索引
 
+## Algorithm（算法）
+
+- [algorithm/算法.md](algorithm/算法.md) - LeetCode 刷题笔记
+
 ## Clash
 
 ### override
