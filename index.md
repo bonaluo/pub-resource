@@ -4,6 +4,12 @@
 
 - [algorithm/算法.md](algorithm/算法.md) - LeetCode 刷题笔记
 
+## 人物
+
+### bilibili
+
+- [人物/bilibili/14468928/14468928.md](人物/bilibili/14468928/14468928.md) - 草原大雄狮
+
 ## Clash
 
 ### override
