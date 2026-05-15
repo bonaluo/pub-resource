@@ -95,6 +95,14 @@ function main(config) {
   addCustomGroup(config);
   matchDirect(config, 'MATCH-智能路由');// 兜底规则使用智能路由，流量仍然可以通过智能路由进行优化
 
+  // geoip 和 geosite 规则（来自 overrideyaml）
+  config['geosite'] = [
+    { match: 'cn', policy: '直连' },
+    { match: 'category-ads-all', policy: 'REJECT' },
+  ];
+  config['geoip'] = [
+    { match: 'cn', policy: '直连' },
+  ];
 
   return config;
 }
