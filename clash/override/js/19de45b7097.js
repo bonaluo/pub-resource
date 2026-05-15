@@ -87,17 +87,21 @@ function matchDirect(config, groupName) {
   config.rules.push(`MATCH,${groupName}`);
 }
 
+// geoip 和 geosite 规则（来自 overrideyaml）
+function addRules(config) {
+  config.rules.unshift('GEOSITE,cn,直连');
+  config.rules.unshift('GEOIP,cn,直连');
+  config.rules.unshift('GEOSITE,category-ads-all,REJECT');
+}
+
 function main(config) {
 
   clearDefaultGroupsAndRules(config);  // 清空默认代理组和规则
   // removeMultiPrice(config);// 流量很多不需要移除多倍率节点
   // addGroupByName(config);// 名称分组会添加很多分组，不如自定义分组来的清晰、可靠、稳定
   addCustomGroup(config);
-  // geoip 和 geosite 规则（来自 overrideyaml）
-  config.rules.push('GEOSITE,cn,直连');
-  config.rules.push('GEOIP,cn,直连');
-  config.rules.push('GEOSITE,category-ads-all,REJECT');
   matchDirect(config, 'MATCH-智能路由');// 兜底规则使用智能路由，流量仍然可以通过智能路由进行优化
+  addRules(config);
 
   return config;
 }
