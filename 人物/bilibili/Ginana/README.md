@@ -1,6 +1,11 @@
-# Gabriela-whoisshe
+# Ginana
 
-未识别身份的 K-pop 路演舞者，曾在多场路演中跳《Who Is She》（KISS OF LIFE）和《Gabriela》（KATSEYE）。
+已识别的 K-pop 路演舞者，曾在多场路演中跳《Who Is She》（KISS OF LIFE）和《Gabriela》（KATSEYE）。
+
+## 平台信息
+
+- **抖音**: [Ginana7](https://www.douyin.com/user/Ginana7)
+- **昵称**: Ginana
 
 ## 视频记录
 
@@ -15,10 +20,10 @@
 
 ## 备注
 
-- 该舞者在多场路演中跳《Who Is She》和《Gabriela》，但身份未知
+- 该舞者在多场路演中跳《Who Is She》和《Gabriela》
 - 《Who Is She》原编舞为 KISS OF LIFE 成员 **Gina**，但 Gina 本人并非该舞者
 - 视频上传者均非舞者本人
 
 ## 状态
 
-**未识别** — 等待确认身份
+**已识别** — 抖音 Ginana7
