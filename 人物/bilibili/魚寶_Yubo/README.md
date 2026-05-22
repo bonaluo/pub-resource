@@ -12,6 +12,7 @@
 | 视频 | 平台 | 日期 | 活动 | UP主 | 备注 |
 |------|------|------|------|------|------|
 | [不知道！胖了30斤的身材更曼妙？](https://www.bilibili.com/video/BV1P2chzjEvu) | 哔哩哔哩 | 2026-02-12 | 路演随舞 | [魚寶_Yubo](https://space.bilibili.com/3706924063263381) | 平井桃/MOMO相关，路演现场 |
+| [2026.5.17 姐随 舞蹈翻跳 10 minutes](https://www.bilibili.com/video/BV1WcLS6SEAg) | 哔哩哔哩 | 2026-05-22 | 姐随路演 | [飞机坐乌牙鸟](https://space.bilibili.com/424175298) | 10 minutes 翻跳（momo曲），yubo参演 |
 
 ## 状态
 
