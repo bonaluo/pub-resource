@@ -11,6 +11,7 @@
 - [人物/bilibili/14468928/14468928.md](人物/bilibili/14468928/14468928.md) - 草原大雄狮
 - [人物/bilibili/212946109/212946109.md](人物/bilibili/212946109/212946109.md) - 小马儿66
 - [人物/bilibili/Ginana/README.md](人物/bilibili/Ginana/README.md) - Ginana（已识别）
+- [人物/bilibili/魚寶_Yubo/README.md](人物/bilibili/魚寶_Yubo/README.md) - 魚寶_Yubo（B站路演随舞拍摄者）
 
 ## Clash
 
