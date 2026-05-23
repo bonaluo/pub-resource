@@ -13,6 +13,11 @@
 - [人物/bilibili/Ginana/README.md](人物/bilibili/Ginana/README.md) - Ginana（已识别）
 - [人物/bilibili/魚寶_Yubo/README.md](人物/bilibili/魚寶_Yubo/README.md) - 魚寶_Yubo（已识别，B站路演随舞拍摄者）
 
+## 舞蹈
+
+- [舞蹈/RUDE/README.md](舞蹈/RUDE/README.md) - RUDE（翻跳/翻跳舞曲收藏）
+- [舞蹈/Kiss&Tell/README.md](舞蹈/Kiss&Tell/README.md) - Kiss&Tell（翻跳/翻跳舞曲收藏）
+
 ## Clash
 
 ### override
