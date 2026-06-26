@@ -24,6 +24,12 @@
 
 - [network/sing-box-guide.md](network/sing-box-guide.md) - Sing-box 代理配置完全指南
 
+## Claude
+
+### Hook
+
+- [claude/hook/git-commit-validation/README.md](claude/hook/git-commit-validation/README.md) - Claude Code PreToolUse Hook：Git Commit 消息格式校验
+
 ## Clash
 
 ### override
