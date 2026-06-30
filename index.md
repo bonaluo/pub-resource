@@ -30,6 +30,10 @@
 
 - [claude/hook/git-commit-validation/README.md](claude/hook/git-commit-validation/README.md) - Claude Code PreToolUse Hook：Git Commit 消息格式校验
 
+### CCR
+
+- [claude/ccr/README.md](claude/ccr/README.md) - Claude Code Router：多 provider 切换与自动 bypass 权限配置
+
 ## Clash
 
 ### override
