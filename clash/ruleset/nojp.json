@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jable.tv",
+        "hanime1.me",
+        "anime1.me",
+        "18commic.vip"
+      ],
+      "domain_keyword": [
+        "missav"
+      ]
+    }
+  ]
+}
