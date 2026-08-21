@@ -78,7 +78,9 @@ parse_args() {
                 ;;
         esac
     done
-    [[ -z "$INSTALL_DIR" ]] && INSTALL_DIR="$DEFAULT_INSTALL_DIR"
+    if [[ -z "$INSTALL_DIR" ]]; then
+        INSTALL_DIR="$DEFAULT_INSTALL_DIR"
+    fi
 }
 
 clone_repo() {
