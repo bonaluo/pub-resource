@@ -1,0 +1,4 @@
+name: online-notify
+description: Send "Hermes已上线" notification to all configured messaging channels on gateway startup
+events:
+  - gateway:startup
