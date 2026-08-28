@@ -30,6 +30,7 @@
 ### ruleset
 
 - [nojp.json](clash/ruleset/nojp.json) - 非日本分流域名规则集
+- [hk.json](clash/ruleset/hk.json) - 香港分流域名规则集（Epic 游戏商城域名）
 
 ## 🔧 hermes/ - Hermes Agent 资源
 

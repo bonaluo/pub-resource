@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "epicgames.com",
+        "epic.com",
+        "epicgames.dev",
+        "epicgames.net",
+        "unrealengine.com",
+        "epicgames.help",
+        "easea.epicgames.net",
+        "epicgames-download1.akamaized.net",
+        "epicgames-download2.akamaized.net",
+        "launcher-public-service-prod06.ol.epicgames.com",
+        "launcher-public-service-prod07.ol.epicgames.com",
+        "launcher-public-service-prod-m.ol.epicgames.com"
+      ]
+    }
+  ]
+}
